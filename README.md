@@ -8,6 +8,7 @@
 
 ## The story
 (It's the 2D story, we might need to update it a bit for the 3D part)
+
 Officer Jack at NASA was asked to go on a mission to Mars to check for any signs of vital life so that humans can expand their kingdom to Mars.
 
 Unfortunately, Officer Jack accepted the mission without knowing that NASA had kept the Varkon, a hostile alien species, a secret from him so he wouldn’t hesitate.
